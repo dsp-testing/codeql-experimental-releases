@@ -1,0 +1,1 @@
+This repository is used for experimental releases of CodeQL. These are intended for internal development purposes only, and may be unstable.
